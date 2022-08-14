@@ -1,5 +1,5 @@
 # Hello, this is Kartike!
-I am a data science enthusiast, hobby programmer and all round tech geek. I am often found tinkering with my laptop for productivity hacks, optimization techniques, and wacky designs.
+I am a data science enthusiast, hobby programmer and all round tech geek. I am often found tinkering with my laptop for productivity hacks, optimization techniques, and wacky design ideas.
 
 I have earned a specialization in data science from Johns Hopkins University on Coursera. Feel free to browse my repos for projects from these courses. I also dabble in Windows software development; check out a 'Racetrack Simulator' I built with C# using WPF.
 
