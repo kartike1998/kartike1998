@@ -6,4 +6,4 @@ I have earned a specialization in data science from Johns Hopkins University on 
 I know R, MATLAB, C#, C++, have experience working with Autodesk Inventor, Photoshop, and a strong proficiency with MS Office (Word, Powerpoint, Excel).
 
 Find me on LinkedIn: https://www.linkedin.com/in/kartike-bhardwaj/  
-Or contact me at kartike.iitd@gmail.com
+Or contact me: kartike.iitd@gmail.com
